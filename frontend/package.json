@@ -15,7 +15,11 @@
     "axios": "^1.6.2",
     "recharts": "^2.10.3",
     "react-hot-toast": "^2.4.1",
-    "lucide-react": "^0.294.0"
+    "lucide-react": "^0.294.0",
+    "zustand": "^5.0.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.6.0",
+    "date-fns": "^4.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
